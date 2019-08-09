@@ -1,10 +1,13 @@
-{
-  { "type": "LineString",
-    "coordinates": [
-        [30, 10], [10, 30], [40, 40]
-    ]
-},
-  "properties": {
-    "name": "Dinagat Islands"
-  }
-}
+{"geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            3.955078125,
+            54.03358633521085
+          ],
+          [
+            8.525390625,
+            54.92714186454645
+          ]
+        ]
+      }}
